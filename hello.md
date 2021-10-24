@@ -1,5 +1,6 @@
 # Hello 
 
-## Hi
+## Hi, this is from the new branch 
 
-This is my first git file. 
+This is my first git file.  
+
