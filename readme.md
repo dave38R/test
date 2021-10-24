@@ -7,3 +7,6 @@ I am updating this from a remote repo !
 
 I'm trying to make this conflict. 
 Let's try to make this shit conflict ! 
+
+## Credits
+dave and tibere
