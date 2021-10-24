@@ -5,3 +5,4 @@
 This is my first git file.  
 I am updating this from a remote repo ! 
 
+Let's try to make this shit conflict ! 
