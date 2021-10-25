@@ -33,3 +33,4 @@ def backward_propagation(input_layer, weights, y__wanted, learning_rate):
   for i in range(len(weights)):
     old_weight = weight[i]
     new_weight = old_weight - cost_derivative(y_gotten, y_wanted)*activation_derivative(lin_com(input_layer, weights))*input_layer[i]
+    weights[i] = new_weight
